@@ -66,7 +66,10 @@ Source of the dataset:-
 2. https://www.clarin.eu/resource-families/parallel-corpora (https://www.kaggle.com/datasets/aiswaryaramachandran/hindienglish-corpora)
 
 Kaggle Notebooks:-
+
 Part 1: https://www.kaggle.com/code/shirshmall/english-to-hindi-translation-attention-model/notebook
+
 Part 2: https://www.kaggle.com/code/shirshmall/english-to-hindi-translation-transformer/notebook
+
 Part 3: https://www.kaggle.com/code/shirshmall/english-to-hindi-translation-fine-tune-huggingface
  
